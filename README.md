@@ -1,4 +1,5 @@
 # Dialog Features
 There is two methods which show dialog with cancelable and non-cancelable features
 
-![s1](https://user-images.githubusercontent.com/114288510/193445209-d6511f2b-5262-41e4-ad93-ded45c01d41d.png) ![s2](https://user-images.githubusercontent.com/114288510/193445215-e196fbc5-0540-45aa-8c81-77d2bd771381.png)
+
+![s1](https://user-images.githubusercontent.com/114288510/193445406-6c64c9d7-cd30-49c4-ad77-46ead5ad9350.png) ![s2](https://user-images.githubusercontent.com/114288510/193445417-eb7a5c89-8c9b-429e-bce2-1137a35f3d76.png)
